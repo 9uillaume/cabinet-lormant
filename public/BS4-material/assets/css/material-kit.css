@@ -4180,6 +4180,10 @@ tbody.collapse.show {
     white-space: nowrap;
 }
 
+.navbar-brand img {
+  width: 12%;
+}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
     text-decoration: none;
